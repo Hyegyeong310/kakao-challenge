@@ -17,6 +17,7 @@
 .header .header__icon .header__icon-plus {
   height: 10px;
   font-size: 12px;
+  -webkit-text-stroke: 1px #020202;
   position: absolute;
   right: -2px;
   top: 3px;
